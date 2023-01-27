@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">country_name</Data></Cell>
+			<Cell><Data ss:Type="String">country_quality_score</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Latvia</Data></Cell>
+			<Cell><Data ss:Type="Number">68.19487934525036</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ukraine</Data></Cell>
+			<Cell><Data ss:Type="Number">62.426853187332085</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Estonia</Data></Cell>
+			<Cell><Data ss:Type="Number">56.6533768926127</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Lithuania</Data></Cell>
+			<Cell><Data ss:Type="Number">44.36316117950508</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Poland</Data></Cell>
+			<Cell><Data ss:Type="Number">41.5043294607755</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Moldova</Data></Cell>
+			<Cell><Data ss:Type="Number">36.52972097182436</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Russia</Data></Cell>
+			<Cell><Data ss:Type="Number">33.22537549653497</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bulgaria</Data></Cell>
+			<Cell><Data ss:Type="Number">32.90378112069987</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Romania</Data></Cell>
+			<Cell><Data ss:Type="Number">21.660521027453942</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Hungary</Data></Cell>
+			<Cell><Data ss:Type="Number">15.464535655665632</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
